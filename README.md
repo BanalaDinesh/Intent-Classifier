@@ -1,4 +1,4 @@
-# Enterprise Structured Ingestion Firewall
+# Intent Classifier
 
 An AI-powered message classification system that transforms natural-language messages into structured, schema-validated JSON. The application uses a FastAPI backend, Groq-hosted language models, Instructor, and Pydantic to produce consistent outputs that downstream applications can process reliably.
 
