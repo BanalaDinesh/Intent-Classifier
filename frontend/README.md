@@ -1,4 +1,4 @@
-# Frontend – Enterprise Structured Ingestion Firewall
+# Frontend – Intent Classifier
 
 ## Overview
 
