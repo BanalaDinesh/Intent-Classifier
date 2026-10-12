@@ -46,7 +46,7 @@ backend/
 │   │   └── llm_service.py
 │   └── utils/
 │       └── token_counter.py
-├── tests/
+├── tests/          # Reserved for future automated tests 
 ├── .env.example
 ├── requirements.txt
 └── README.md
