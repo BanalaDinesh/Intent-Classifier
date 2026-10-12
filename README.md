@@ -231,13 +231,6 @@ The API validates incoming messages and returns appropriate HTTP errors for inva
 - `422 Unprocessable Entity`: Invalid request or empty message.
 - `502 Bad Gateway`: Model request failure or schema-validation failure.
 
-## Security Notes
-
-- Never commit your `.env` file or expose your Groq API key.
-- Keep `.env.example` limited to placeholder values.
-- Restrict CORS origins before production deployment.
-- Add authentication, rate limiting, and monitoring before exposing the API publicly.
-- Treat token counts as estimates, not billing records.
 
 ## Component Documentation
 
