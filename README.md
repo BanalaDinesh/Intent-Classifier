@@ -4,7 +4,7 @@ An AI-powered message classification system that transforms natural-language mes
 
 ## Overview
 
-The Enterprise Structured Ingestion Firewall demonstrates how unstructured user messages can be processed into standardized data before being passed to other application services.
+The Intent Classifier demonstrates how unstructured user messages can be processed into standardized data before being passed to other application services.
 
 Users submit a message through a web interface. The backend sends it to a language model for classification, validates the generated response against a predefined Pydantic schema, estimates the input token count, and returns structured JSON to the frontend.
 
